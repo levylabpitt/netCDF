@@ -10,7 +10,7 @@ download and install [Python 3.9.4](https://www.python.org/downloads/release/pyt
 
 from command line run:
 ```
-pip install netCDF
+pip install netCDF4
 ```
 
 ## Contributing
